@@ -1,8 +1,5 @@
-selenium
-webdriver-manager
-supabase==2.5.1
-gotrue==2.3.0
-python-dotenv
 requests
 python-telegram-bot==20.7
-httpx==0.25.2
+python-dotenv
+selenium
+webdriver-manager
