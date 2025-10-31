@@ -5,3 +5,4 @@ python-dotenv
 requests
 python-telegram-bot==20.7
 httpx==0.25.2
+gotrue==2.4.2
