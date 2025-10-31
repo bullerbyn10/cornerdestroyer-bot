@@ -1,6 +1,6 @@
 selenium
 webdriver-manager
-supabase
+supabase==2.5.1
 python-dotenv
 requests
 python-telegram-bot==20.7
